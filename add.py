@@ -1,0 +1,1 @@
+print("sum is", int(input()) + int(input()))
